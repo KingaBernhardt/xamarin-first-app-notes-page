@@ -1,0 +1,14 @@
+C:\Users\kinga\source\repos\XAML\XAML\XAML\bin\Debug\netstandard2.0\XAML.deps.json
+C:\Users\kinga\source\repos\XAML\XAML\XAML\bin\Debug\netstandard2.0\XAML.dll
+C:\Users\kinga\source\repos\XAML\XAML\XAML\bin\Debug\netstandard2.0\ref\XAML.dll
+C:\Users\kinga\source\repos\XAML\XAML\XAML\bin\Debug\netstandard2.0\XAML.pdb
+C:\Users\kinga\source\repos\XAML\XAML\XAML\obj\Debug\netstandard2.0\XAML.csprojAssemblyReference.cache
+C:\Users\kinga\source\repos\XAML\XAML\XAML\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\kinga\source\repos\XAML\XAML\XAML\obj\Debug\netstandard2.0\XAML.AssemblyInfoInputs.cache
+C:\Users\kinga\source\repos\XAML\XAML\XAML\obj\Debug\netstandard2.0\XAML.AssemblyInfo.cs
+C:\Users\kinga\source\repos\XAML\XAML\XAML\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\kinga\source\repos\XAML\XAML\XAML\obj\Debug\netstandard2.0\XAML.dll
+C:\Users\kinga\source\repos\XAML\XAML\XAML\obj\Debug\netstandard2.0\ref\XAML.dll
+C:\Users\kinga\source\repos\XAML\XAML\XAML\obj\Debug\netstandard2.0\XAML.pdb
+C:\Users\kinga\source\repos\XAML\XAML\XAML\obj\Debug\netstandard2.0\DetailPage.xaml.g.cs
+C:\Users\kinga\source\repos\XAML\XAML\XAML\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
